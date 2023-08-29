@@ -155,7 +155,7 @@ body {
 
 .bg-flower {
     margin: 128px 240px;
-    background-image: url('/Flower Asset/Rectangle\ 9.png');
+    background-image: url('./Flower Asset/Rectangle\ 9.png');
 
     align-items: center;
     text-align: center;
