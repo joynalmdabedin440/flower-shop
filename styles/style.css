@@ -1,0 +1,192 @@
+/* header section */
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: #E554731A;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 240px;
+}
+
+.header-description {
+    padding: 150px 0;
+
+    padding-right: 97px;
+    /* align-items: center; */
+    /* text-align: center; */
+    /* width: 500px; */
+
+}
+
+.header-description p {
+    margin: 32px 0;
+}
+
+.header-description h1 {
+    font-size: 80px;
+    color: #272727;
+    font-weight: 800;
+}
+
+.header img {
+    padding-top: 50px;
+    height: 800px;
+}
+
+.button {
+    border: none;
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    color: #FFF;
+}
+
+.flower-feature {
+    margin-top: 180px;
+    text-align: center;
+    margin-bottom: 48px;
+}
+
+.flower-feature h1 {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 32px;
+
+}
+
+.flower-tree {
+    display: flex;
+    justify-content: space-around;
+    margin: 0 240px;
+}
+
+.flower {
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    text-align: center;
+
+}
+
+#flower-1 img {
+    padding-top: 110px;
+}
+
+#flower-2 img {
+    padding-top: 110px;
+}
+
+#flower-3 img {
+    padding-top: 67px;
+}
+
+#flower-1 {
+
+    background: rgba(167, 33, 98, 0.15);
+    text-align: center;
+
+}
+
+#flower-2 {
+    background: rgba(5, 151, 160, 0.15);
+}
+
+#flower-3 {
+
+    background: rgba(71, 125, 17, 0.15);
+}
+
+.flower-title {
+    display: flex;
+    justify-content: space-around;
+    margin: 0 240px;
+}
+
+.hot-deal {
+    margin: 128px 0;
+    display: flex;
+    background: rgba(229, 84, 115, 0.05);
+    justify-content: center;
+
+
+}
+
+.hot-deal h1 {
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.description {
+    margin-right: 100px;
+    margin-top: 130px;
+}
+
+.off {
+    color: #E55473;
+    ;
+}
+
+.flower-display {
+    display: flex;
+    margin: 0 240px;
+
+}
+
+.flower-description {
+    text-align: center;
+    margin-top: 128px;
+    margin-bottom: 48px;
+}
+
+.flower-description h2 {
+    margin-bottom: 5px;
+}
+
+.flowers {
+    margin-left: 24px;
+}
+
+.bg-flower {
+    margin: 128px 240px;
+    background-image: url('/Flower Asset/Rectangle\ 9.png');
+
+    align-items: center;
+    text-align: center;
+    padding: 122px 0;
+}
+.bg-flower h2{
+    font-weight: 800;
+    font-size: 40px;
+}
+.bg-flower p{
+    color: rgba(39, 39, 39, 0.60);
+}
+
+.bg-flower input {
+    border-radius: 8px;
+    background: #FFF;
+    width: 700px;
+    height: 49px;
+    flex-shrink: 0;
+    padding-left: 20px;
+}
+footer{
+    background: #111010;
+    color: rgba(255, 255, 255, 0.90);
+    padding: 128px 650px;
+    text-align: center;
+}
+footer small{
+    color: rgba(255, 255, 255, 0.40);
+}
+.shop{
+  
+ color: #E55473;
+}
