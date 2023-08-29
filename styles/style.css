@@ -190,3 +190,19 @@ footer small{
   
  color: #E55473;
 }
+
+.why-our-shop{
+    display: flex;
+    margin-bottom: 20px;
+}
+.reason{
+    background-color: antiquewhite;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+.why{
+    text-align: center;
+    font-size: 100px;
+}
